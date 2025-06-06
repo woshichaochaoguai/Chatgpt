@@ -1,0 +1,3 @@
+openai
+langdetect
+# argparse is included in the Python standard library
